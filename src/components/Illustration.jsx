@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 
 export default function Illustration() {
     const illustrations = [
-        { image: '../../public/illustrations.png' },
-        { image: '../../public/illustration2.png' },
-        { image: '../../public/illustration3.png' },
+        { image: "https://drive.google.com/file/d/1f4m3aHVmpCVLH5n_ENNVtgXoqKfPBz2i/view?usp=sharing" },
+        { image: "https://drive.google.com/file/d/1b9ybrZyhZCZxrLy8bEf57F857kzZQqft/view?usp=sharing" },
+        { image: "https://drive.google.com/file/d/1hc4PuyQOsRc_Xg9RIs-esds3HIft2vxF/view?usp=sharing" },
     ];
 
     const [currentIllustrationIndex, setCurrentIllustrationIndex] = useState(0);
