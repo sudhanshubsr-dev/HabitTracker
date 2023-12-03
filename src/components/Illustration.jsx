@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 export default function Illustration() {
     const illustrations = [
-        { image: "https://drive.google.com/file/d/1f4m3aHVmpCVLH5n_ENNVtgXoqKfPBz2i/view?usp=sharing" },
+        { image: "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" },
         { image: "https://drive.google.com/file/d/1b9ybrZyhZCZxrLy8bEf57F857kzZQqft/view?usp=sharing" },
         { image: "https://drive.google.com/file/d/1hc4PuyQOsRc_Xg9RIs-esds3HIft2vxF/view?usp=sharing" },
     ];
